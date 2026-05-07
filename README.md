@@ -38,15 +38,11 @@ This repository provides the implementation support for the research work:
 
 ## 🌐 Live Demo
 
-A live deployment can be provided using a cloud-hosting service such as Railway, Render, or PythonAnywhere.
+The platform is deployed as a live web application for research demonstration and reproducibility testing.
 
-> Demo mode is intended for research demonstration and reproducibility testing.
+> Demo mode is intended for symbolic transfer-function computation, structural recovery, and response-analysis demonstration.
 
-Demo URL:
-
-```text
-https://your-deployment-url.example.com/
-```
+🔗 **Live Demo:** [https://transfer-function-lab.up.railway.app/](https://transfer-function-lab.up.railway.app/)
 
 ---
 
